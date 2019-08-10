@@ -1,0 +1,8 @@
+{
+  "name": "html-string",
+  "version": "0.1.0",
+  "description": "A JavaScript proxy that returns an html string.",
+  "author": "Dustin Dowell <dustindowell2@gmail.com>",
+  "license": "ISC",
+  "main": "index.js"
+}
